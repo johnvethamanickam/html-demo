@@ -1,0 +1,28 @@
+body{
+    background-color: yellow ;
+    
+    }
+    .fa{
+        color: blue;
+    }
+    .text{
+    
+    
+    }
+    span{
+    font-size: 14px;
+    
+    }
+    a{
+        border-bottom: 1px solid blue;
+    }
+    .box-part{
+    
+    background-color: white;
+    padding: 30px 10px;
+    margin:10px 0px;
+    }
+    .box{
+        padding: 60px 0px ;
+    }
+    .text{margin: 20px;}
